@@ -1,0 +1,62 @@
+.page {
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.artwork {
+  width: 650px;
+  height: 800px;
+}
+
+/* each frame gets progressively smaller and lower */
+
+
+.frame-grey {
+  width: 600px;
+  height: 600px;
+  background: rgb(204, 201, 201);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frame-orange1 {
+  width: 500px;
+  height: 500px;
+  background: rgb(219, 153, 66);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frame-orange2 {
+  width: 400px;
+  height: 400px;
+  background: rgb(221, 172, 109);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.frame-orange3 {
+  width: 300px;
+  height: 300px;
+  background: rgb(223, 143, 69);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.frame-orange4 {
+  width: 200px;
+  height: 200px;
+  background: rgb(212, 115, 24);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
