@@ -1,0 +1,57 @@
+
+body {
+  background: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Center everything on the page */
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Main artwork container */
+.artwork {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
+
+/* Main grey frame */
+.frame-grey {
+  width: 600px;
+  height: 600px;
+  background: rgb(158, 157, 157);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.field-blue {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(31, 31, 168);
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.field-white {
+  width: 350px;
+  height: 350px;
+  background-color: rgb(230, 230, 230);
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.field-lightblue {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(116, 168, 216);
+  margin-top: 20px;
+}

@@ -1,0 +1,54 @@
+.page {
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.artwork {
+  width: 650px;
+  height: 800px;
+}
+
+.greybox {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(139, 144, 161);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.smallgold1 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(141, 125, 85);
+    margin-top: 150px;
+}
+
+.purplebox {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(94, 63, 119);
+}
+
+.yellowbox {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(236, 231, 151);  
+}
+
+.orangebox {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(212, 157, 53);
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.smallgold2 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(141, 125, 85);
+}
